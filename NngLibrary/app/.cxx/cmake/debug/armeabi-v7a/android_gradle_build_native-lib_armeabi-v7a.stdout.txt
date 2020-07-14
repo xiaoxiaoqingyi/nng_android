@@ -1,0 +1,7 @@
+ninja: Entering directory `E:\androidWork\samples\NngLibrary\app\.cxx\cmake\debug\armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+E:/androidWork/samples/NngLibrary/app/src/main/cpp/native-lib.cpp:83:27: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+            char *reply = "response answer";
+                          ^
+1 warning generated.
+[2/2] Linking CXX shared library E:\androidWork\samples\NngLibrary\app\build\intermediates\cmake\debug\obj\armeabi-v7a\libnative-lib.so

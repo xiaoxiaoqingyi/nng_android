@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/androidWork/samples/NngLibrary/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\AndroidSDK\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/AndroidSDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/AndroidSDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IE:/androidWork/samples/NngLibrary/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c E:\\androidWork\\samples\\NngLibrary\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "E:\\androidWork\\samples\\NngLibrary\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]
